@@ -1,0 +1,9 @@
+rolimons
+requests
+discord_webhook 
+DiscordWebhook
+DiscordEmbed
+json 
+win10toast
+ToastNotifier
+time

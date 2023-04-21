@@ -1,0 +1,10 @@
+{
+    "auth": "Your Auth for the AP",
+    "percentage":  1, 
+    "refresh_rate": 50  ,
+    "windows_notification": "",
+    "webhook_enabled": "",
+    "webhook_ping": "",
+    "webhook": "https://discord.com/api/webhooks/xxx/xxx"  
+
+  }
